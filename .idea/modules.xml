@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/circuit-breaker.iml" filepath="$PROJECT_DIR$/circuit-breaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore/circuit-breaker-bookstore.iml" filepath="$PROJECT_DIR$/bookstore/circuit-breaker-bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading/circuit-breaker-reading.iml" filepath="$PROJECT_DIR$/reading/circuit-breaker-reading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-service/eureka-client.iml" filepath="$PROJECT_DIR$/discovery-service/eureka-client.iml" />
+    </modules>
+  </component>
+</project>
